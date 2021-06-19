@@ -5,3 +5,4 @@ tuning hyperparemter is a method to get k optimum
 
 data from National Institute of Diabetes and Digestive and Kidney Diseases; Includes cost data (donated by Peter Turney)
 Requirement: Google Colaboratory
+#KNN #MachineLearning #Python #Hyperparameter
